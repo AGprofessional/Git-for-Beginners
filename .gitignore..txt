@@ -1,0 +1,3 @@
+picture*
+.DS_store
+my_notes.txt
